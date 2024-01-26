@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anique</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-- 🔭 I’m currently working on [HelloWorldAI](https://hello-world-ai-9tif.vercel.app/)
-
 - 💬 Ask me about **MERN, machine learning and AI**
 
 - 📫 How to reach me **anique.cs@gmail.com**
